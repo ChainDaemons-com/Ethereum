@@ -1,1 +1,11 @@
-# Ethereum
+Ethereum was conceived by a Canadian programmer, Vitalik Buterin. The project officially started in November 2013, when Buterin described Ethereum for the first time in a whitepaper. Vitalik Buterin got involved in the cryptocurrency industry at the young age of 17. He co-founded Bitcoin Magazine in 2012, regarded as the first serious publication dedicated to blockchains and cryptocurrencies.
+
+Till the early 2010s, blockchains were primarily concerned with creating a decentralized financial structure that could run without central entities, such as banks. Vitalik Buterin believed that blockchains are capable of much more than being simple decentralized financial platforms for peer-to-peer transactions.
+
+He wanted a blockchain that was a decentralized financial network and a software development platform all in one. Buterin first suggested a scripting language for application development on Bitcoin. After failing to get his proposition approved, he decided to go with the idea of a new blockchain with a scripting language, i.e., Ethereum.
+
+Ethereum was announced in January 2014 at the North American Bitcoin Conference. Buterin’s efforts to develop Ethereum were joined by Charles Hoskinson, Gavin Wood, Anthony Di Iorio, Mihai Alisie, Amir Chetrit, and Joseph Lubin. The software development was initially started through a Swiss company named Ethereum Switzerland GmbH. However, a Swiss non-profit organization, the Ethereum Foundation, was eventually founded, which took over the project’s development.
+
+The project was crowdfunded through an ICO held in August 2014. Investors could buy Ether tokens in exchange for Bitcoin tokens during the sale. The team managed to sell around 7 million Ether during the first 12 hours. A total of 50 million Ether were sold throughout the ICO at the price of $0.32 tokens per sale, raising a capital of $16 million for the development of Ethereum.
+
+The Ethereum blockchain was officially launched on 30 July 2015. This blockchain had two basic functions: facilitate P2P transactions through mining and run smart contracts. The integration of smart contracts allowed programmers to develop decentralized applications using the Ethereum network. Since its launch, the blockchain has gone through multiple fundamental upgrades and hard forks.
